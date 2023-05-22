@@ -5,6 +5,7 @@
 ![alt text](https://github.com/matthewsgordon/solar-system/blob/main/java_FAKxYEtj1e.gif)
 
 ## Design
+CelestialBody class contains parameters for each planet and the sun.
 ```Java
 public class CelestialBody {
     // Name of celestial body
